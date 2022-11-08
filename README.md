@@ -1,3 +1,23 @@
+# To-Do List
+
+Create-react-app to manage tasks.
+
+## Functionality
+
+- As a user, I can add a task to the list.
+- As a user, I can see all the tasks on the list in an overview.
+- As a user, I can drill into a task to see more information about the task.
+- As a user, I can delete a task.
+- As a user, I can mark a task as completed.
+- As a user, when I see all the tasks in the overview, if today's date is past the task's deadline, highlight it.
+
+## Technology Used
+
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
