@@ -1,5 +1,6 @@
 # To-Do List
 
+Todo list is a simple application to save your daily task in order to not miss anything.This can be used for multiple purposes such as Shopping list , taking notes etc.
 Create-react-app to manage tasks.
 
 ## Functionality
